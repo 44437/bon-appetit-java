@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#A4E4A0</color>
+    <color name="colorPrimaryDark">#E1E1E1</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="gray">#A5A8A8</color>
+    <color name="introBackground">#FFFFFF</color>
+    <color name="cardColor">#F2F5F6F6</color>
+    <color name="black">#000000</color>
+    <color name="item1textcolor">#575656</color>
+    <color name="greenSoft">#B7ED79</color>
+    <color name="detailAndCardTextColor">#858383</color>
+    <color name="titleTextColor">#569111</color>
+    <color name="toolbarColor">#E9F6F6F6</color>
+    <color name="regionBackground">#69A622</color>
+
+
+</resources>
